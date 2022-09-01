@@ -15,23 +15,23 @@ body {
     justify-content: center;
 }
 
-.content {
+.muq-wave {
     position: relative;
 }
 
-.content h2 {
+.muq-wave h1 {
     color: #fff;
     font-size: 8em;
     position: absolute;
     transform: translate(-50%, -50%);
 }
 
-.content h2:nth-child(1) {
+.muq-wave h1:nth-child(1) {
     color: transparent;
     -webkit-text-stroke: 2px #03a9f4;
 }
 
-.content h2:nth-child(2) {
+.muq-wave h1:nth-child(2) {
     color: #03a9f4;
     animation: animate 4s ease-in-out infinite;
 }
