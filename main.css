@@ -7,7 +7,7 @@
     font-family: "Poppins", sans-serif;
 }
 
-body {
+header {
     display: flex;
     background: #000;
     min-height: 100vh;
