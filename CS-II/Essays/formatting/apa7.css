@@ -1,0 +1,14 @@
+.essay {
+    line-height: 2;
+    text-indent:40px;
+}
+
+.hangingindent {
+    padding-left: 22px;
+    text-indent: -22px;
+}
+
+
+.cover-page {
+    text-align: center;
+}
